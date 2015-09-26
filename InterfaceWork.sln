@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceWork", "InterfaceWork.csproj", "{514D2865-1D27-4A05-AD9C-7CB2238DA3AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceWork.UITests", "InterfaceWork.UITests\InterfaceWork.UITests.csproj", "{4F84ACEB-FC2E-4834-B55C-063A3FBAC037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F84ACEB-FC2E-4834-B55C-063A3FBAC037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F84ACEB-FC2E-4834-B55C-063A3FBAC037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F84ACEB-FC2E-4834-B55C-063A3FBAC037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F84ACEB-FC2E-4834-B55C-063A3FBAC037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{514D2865-1D27-4A05-AD9C-7CB2238DA3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514D2865-1D27-4A05-AD9C-7CB2238DA3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514D2865-1D27-4A05-AD9C-7CB2238DA3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514D2865-1D27-4A05-AD9C-7CB2238DA3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
